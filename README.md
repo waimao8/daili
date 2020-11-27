@@ -5,8 +5,9 @@ https://github.com/Kr328/ClashForAndroid/releases
 
 https://f-droid.org/packages/org.schabi.newpipe/
 
-下载 f-droid 搜索 newpipe  AuroraStore      AuroraStore 搜索 telegram  v2rayNG  kiwi 浏览器
+下载 f-droid 搜索 newpipe  AuroraStore      
 
+AuroraStore 搜索 telegram  v2rayNG  kiwi 浏览器
 
 
 菜篮子  https://pool.starts.sh/
