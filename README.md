@@ -32,7 +32,9 @@ ClashX: Dashboard中，点击每个策略组右上角的刷新图标
 
 ClashXPro: Config → Update External Sources
 ShadowRocket
+
 全部订阅：https://pool.starts.sh/clash/proxies
+
 常用国家：https://pool.starts.sh/clash/proxies?c=HK,TW,US,JP,SG
 
 Surge
