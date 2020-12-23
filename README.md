@@ -1,4 +1,17 @@
 
+linux 
+
+https://github.com/Qv2ray/Qv2ray/releases
+
+v2ray
+
+https://github.com/v2ray/v2ray-core/releases
+
+xray
+
+https://github.com/XTLS/Xray-core
+
+
 Android v2rayNG
 
 https://github.com/2dust/v2rayNG/releases
