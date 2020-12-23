@@ -1,3 +1,6 @@
+下载SwitchyOmega 浏览器代理插件
+
+https://github.com/FelisCatus/SwitchyOmega/releases
 
 linux 
 
