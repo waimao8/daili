@@ -6,9 +6,16 @@ linux
 
 https://github.com/Qv2ray/Qv2ray/releases
 
+win
+
+https://github.com/2dust/v2rayN
+
+https://github.com/v2fly/v2ray-core/releases
+
 v2ray
 
 https://github.com/v2ray/v2ray-core/releases
+
 
 xray
 
